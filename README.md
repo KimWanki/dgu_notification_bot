@@ -16,3 +16,12 @@ ChromeDriver 83.0.4103.39(https://chromedriver.chromium.org/downloads)
 ~ cd dgu_notification_bot
 ~ python donggong_bot.py
 ```
+
+
+
+## 스케줄러
+구현 예정.
+
+
+## 서버
+구현 예정.
