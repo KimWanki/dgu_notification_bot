@@ -11,7 +11,6 @@
 ChromeDriver 83.0.4103.39(https://chromedriver.chromium.org/downloads)    
 ```
 
-동식이는 서버에서 돌아가는 환경을 전제로 만들어졌습니다.  
 ```
 ~ git clone https://github.com/kimwanki/dgu_notification_bot
 ~ cd dgu_notification_bot
